@@ -4,7 +4,7 @@ A simple Python Flask application for testing the merge flow in Helix.
 
 ## Structure.
 
-- `src/app.py` —  Flask API with user CRUD endpoints
+- `src/app.py` —  Flask API with user CRUD endpoints.
 - `src/models.py` — Data models (User, Project, Task)
 - `src/utils.py` — Utility functions (validation, hashing, pagination).
 
