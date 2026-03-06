@@ -10,7 +10,7 @@ A simple Python Flask application for testing the merge flow in Helix.
 
 ## API Endpoints
 
-- `GET /api/users` — List all users
+- `GET /api/users` — List all users.
 - `GET /api/users/:id` — Get user by ID
 - `POST /api/users` — Create a new user
 - `GET /api/health` — Health check
