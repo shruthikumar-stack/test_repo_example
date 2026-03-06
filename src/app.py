@@ -5,6 +5,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
+
 # In-memory data store
 users = [
     {"id": 1, "name": "Alice", "email": "alice@example.com"},
