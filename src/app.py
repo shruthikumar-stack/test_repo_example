@@ -11,7 +11,7 @@ users = [
     {"id": 2, "name": "Bob", "email": "bob@example.com"},
 ]
 
-
+print("hello")
 @app.route("/api/users", methods=["GET"])
 def get_users():
     """Return all users."""
