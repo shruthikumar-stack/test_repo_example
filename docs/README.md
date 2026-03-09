@@ -1,7 +1,7 @@
 # Test Merge Repo
 
 A simple Python Flask application for testing the merge flow in Helix.
-test _ multi repo no2
+TEST_NEW-01
 ## Structure.
 
 - `src/app.py` —  Flask API with user CRUD endpoints.
