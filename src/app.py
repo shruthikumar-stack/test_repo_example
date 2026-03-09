@@ -4,7 +4,7 @@ Simple Flask application for testing graph ingestion.
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
-
+print("huyguy")
 # In-memory data store
 users = [
     {"id": 1, "name": "Alice", "email": "alice@example.com"},
