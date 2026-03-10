@@ -1,5 +1,5 @@
 """
-print("test1")
+print("test2")
 Simple Flask application for testing graph ingestion.
 """
 from flask import Flask, jsonify, request
